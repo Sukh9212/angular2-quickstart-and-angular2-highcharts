@@ -1,1 +1,1 @@
-See this commit changes https://github.com/gevgeny/angular2-quickstart-and-angular2-highcharts/commit/5021ff2b7f615a5b566b4bab0faf70991f5a53db to understand how to use [angular2-highcharts)] (https://github.com/gevgeny/angular2-highcharts) in SystemJs env
+See this commit changes https://github.com/gevgeny/angular2-quickstart-and-angular2-highcharts/commit/5021ff2b7f615a5b566b4bab0faf70991f5a53db to understand how to use [angular2-highcharts] (https://github.com/gevgeny/angular2-highcharts) in SystemJs env
