@@ -1,20 +1,5 @@
 import { Component } from '@angular/core';
 
-// You can load Highcharts static if you need its API
-const Highcharts = require('highcharts');
-
-// If you want you can load any Highcharts module here: 'highcharts/highcharts-more', 'highcharts/modules/map' and etc.
-// See the node_modules/highcharts folders to find a necessary module
-const Highcharts3d = require('highcharts/highcharts-3d.src');
-
-// Any Highcharts static API is available throw the Highcharts variable
-Highcharts.setOptions({
-    colors: ['#058DC7', '#50B432', '#ED561B']
-});
-
-// Plug the highcharts-3d module
-Highcharts3d(Highcharts);
-
 @Component({
     selector: 'my-app',
     template: `
